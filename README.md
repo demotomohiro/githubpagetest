@@ -24,5 +24,6 @@ $ su
 3. あばばば
    - ぐぬぬ
 
+[Link to sub page](sub/page.md)
 
 ![some image](ganglion_half.jpg)
